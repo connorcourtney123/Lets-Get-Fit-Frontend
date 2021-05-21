@@ -41,16 +41,23 @@ app.post('achievements/', achievementsController.markComplete) (user id in auth 
 ## ERB/WIREFRAMES
 <img width="586" alt="Screen Shot 2021-05-21 at 1 22 40 AM" src="https://user-images.githubusercontent.com/79672776/119086282-431acd00-b9d3-11eb-8ed6-acd884e0a020.png">
 Workout Summary Page
-![image](https://user-images.githubusercontent.com/79672776/119086307-4dd56200-b9d3-11eb-8325-2fe34557bb6e.jpeg)
+![Screen Shot 2021-05-21 at 1 14 26 AM](https://user-images.githubusercontent.com/79672776/119087860-c5a48c00-b9d5-11eb-9213-83ef0fb45ea9.jpeg)
+
 Save New Workout
-![image](https://user-images.githubusercontent.com/79672776/119086354-5d54ab00-b9d3-11eb-8eeb-73a17592a6b2.jpeg)
+![Screen Shot 2021-05-21 at 1 16 16 AM](https://user-images.githubusercontent.com/79672776/119087879-cb9a6d00-b9d5-11eb-83b0-8535f9996503.jpeg)
+
 Logged In User Summary
-![image](https://user-images.githubusercontent.com/79672776/119086404-6fcee480-b9d3-11eb-8787-1fc1f1a8a4f8.jpeg)
+![Screen Shot 2021-05-21 at 1 16 57 AM](https://user-images.githubusercontent.com/79672776/119087894-cfc68a80-b9d5-11eb-8e1c-6926e909fc71.jpeg)
+
 User Nutrition
-![image](https://user-images.githubusercontent.com/79672776/119086447-8117f100-b9d3-11eb-84d4-74c8bf9b5740.jpeg)
+![Screen Shot 2021-05-21 at 1 16 57 AM](https://user-images.githubusercontent.com/79672776/119087917-d6ed9880-b9d5-11eb-8ca1-bea50b18960a.jpeg)
+
 Cardio Summary
-![image](https://user-images.githubusercontent.com/79672776/119086490-89702c00-b9d3-11eb-966e-6472af3dd557.jpeg)
+![Screen Shot 2021-05-21 at 1 21 33 AM](https://user-images.githubusercontent.com/79672776/119087949-dead3d00-b9d5-11eb-8741-a882cce74996.jpeg)
+
 Achievements
-![image](https://user-images.githubusercontent.com/79672776/119086520-92f99400-b9d3-11eb-9a17-f4b1089f8104.jpeg)
+![Screen Shot 2021-05-21 at 1 23 06 AM](https://user-images.githubusercontent.com/79672776/119087961-e371f100-b9d5-11eb-9c7d-1a27ec878d1b.jpeg)
+
 Strength Summary
-![image](https://user-images.githubusercontent.com/79672776/119086545-9ab93880-b9d3-11eb-89c5-ceba0682fd9c.jpeg)
+![Screen Shot 2021-05-21 at 1 24 10 AM](https://user-images.githubusercontent.com/79672776/119087970-e79e0e80-b9d5-11eb-8baf-da47bf3d7d69.jpeg)
+
