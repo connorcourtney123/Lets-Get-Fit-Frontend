@@ -47,11 +47,12 @@ Workout Summary Page
 Save New Workout
 ![Screen Shot 2021-05-21 at 1 16 16 AM](https://user-images.githubusercontent.com/79672776/119087879-cb9a6d00-b9d5-11eb-83b0-8535f9996503.jpeg)
 
-Logged In User Summary
+Logged In User Nutrition Summary
 ![Screen Shot 2021-05-21 at 1 16 57 AM](https://user-images.githubusercontent.com/79672776/119087894-cfc68a80-b9d5-11eb-8e1c-6926e909fc71.jpeg)
 
-User Nutrition
-![Screen Shot 2021-05-21 at 1 16 57 AM](https://user-images.githubusercontent.com/79672776/119087917-d6ed9880-b9d5-11eb-8ca1-bea50b18960a.jpeg)
+User Nutrition Specific Day
+![Screen Shot 2021-05-21 at 1 17 10 AM](https://user-images.githubusercontent.com/79672776/119088861-54fe6f00-b9d7-11eb-95dd-ef2109889a1e.jpeg)
+
 
 Cardio Summary
 ![Screen Shot 2021-05-21 at 1 21 33 AM](https://user-images.githubusercontent.com/79672776/119087949-dead3d00-b9d5-11eb-8741-a882cce74996.jpeg)
