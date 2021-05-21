@@ -2,18 +2,18 @@
 Lets Get Fit is an app where people can come together and share their fitness journeys.
 
 ## MVP
-Full CRUD functionality.
-Achievements - Pre-set goals for the user to complete.
-MacroNutrition Summary Page
-Workout Summary Page
-Looking at Specific workouts
-Adding, updating, and deleting workouts/nutrition info.
-Express and React
+Full CRUD functionality.<br/>
+Achievements - Pre-set goals for the user to complete.<br/>
+MacroNutrition Summary Page<br/>
+Workout Summary Page<br/>
+Looking at Specific workouts<br/>
+Adding, updating, and deleting workouts/nutrition info.<br/>
+Express and React<br/>
 
 ## Stretch
-Users can share workouts, diet logs, and plan exercise routines.
-Mobile CSS
-Recommended workouts
+Users can share workouts, diet logs, and plan exercise routines.<br/>
+Mobile CSS<br/>
+Recommended workouts<br/>
 
 ## Routes
 app.post(‘user/‘, userController.signup)
