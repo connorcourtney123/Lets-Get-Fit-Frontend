@@ -41,7 +41,8 @@ app.post('achievements/', achievementsController.markComplete) (user id in auth 
 ## ERB/WIREFRAMES
 <img width="586" alt="Screen Shot 2021-05-21 at 1 22 40 AM" src="https://user-images.githubusercontent.com/79672776/119086282-431acd00-b9d3-11eb-8ed6-acd884e0a020.png">
 Workout Summary Page
-![Screen Shot 2021-05-21 at 1 14 26 AM](https://user-images.githubusercontent.com/79672776/119087860-c5a48c00-b9d5-11eb-9213-83ef0fb45ea9.jpeg)
+![Screen Shot 2021-05-21 at 1 14 26 AM](https://user-images.githubusercontent.com/79672776/119088055-08fefa80-b9d6-11eb-9124-07ad81768dab.jpeg)
+
 
 Save New Workout
 ![Screen Shot 2021-05-21 at 1 16 16 AM](https://user-images.githubusercontent.com/79672776/119087879-cb9a6d00-b9d5-11eb-83b0-8535f9996503.jpeg)
