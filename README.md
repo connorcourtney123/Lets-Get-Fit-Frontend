@@ -41,16 +41,16 @@ app.post('achievements/', achievementsController.markComplete) (user id in auth 
 ## ERB/WIREFRAMES
 <img width="586" alt="Screen Shot 2021-05-21 at 1 22 40 AM" src="https://user-images.githubusercontent.com/79672776/119086282-431acd00-b9d3-11eb-8ed6-acd884e0a020.png">
 Workout Summary Page
-![Screen Shot 2021-05-21 at 1 14 26 AM](https://user-images.githubusercontent.com/79672776/119086307-4dd56200-b9d3-11eb-8325-2fe34557bb6e.jpeg)
+![image](https://user-images.githubusercontent.com/79672776/119086307-4dd56200-b9d3-11eb-8325-2fe34557bb6e.jpeg)
 Save New Workout
-![Screen Shot 2021-05-21 at 1 16 16 AM](https://user-images.githubusercontent.com/79672776/119086354-5d54ab00-b9d3-11eb-8eeb-73a17592a6b2.jpeg)
+![image](https://user-images.githubusercontent.com/79672776/119086354-5d54ab00-b9d3-11eb-8eeb-73a17592a6b2.jpeg)
 Logged In User Summary
-![Screen Shot 2021-05-21 at 1 16 57 AM](https://user-images.githubusercontent.com/79672776/119086404-6fcee480-b9d3-11eb-8787-1fc1f1a8a4f8.jpeg)
+![image](https://user-images.githubusercontent.com/79672776/119086404-6fcee480-b9d3-11eb-8787-1fc1f1a8a4f8.jpeg)
 User Nutrition
-![Screen Shot 2021-05-21 at 1 17 10 AM](https://user-images.githubusercontent.com/79672776/119086447-8117f100-b9d3-11eb-84d4-74c8bf9b5740.jpeg)
+![image](https://user-images.githubusercontent.com/79672776/119086447-8117f100-b9d3-11eb-84d4-74c8bf9b5740.jpeg)
 Cardio Summary
-![Screen Shot 2021-05-21 at 1 21 33 AM](https://user-images.githubusercontent.com/79672776/119086490-89702c00-b9d3-11eb-966e-6472af3dd557.jpeg)
+![image](https://user-images.githubusercontent.com/79672776/119086490-89702c00-b9d3-11eb-966e-6472af3dd557.jpeg)
 Achievements
-![Screen Shot 2021-05-21 at 1 23 06 AM](https://user-images.githubusercontent.com/79672776/119086520-92f99400-b9d3-11eb-9a17-f4b1089f8104.jpeg)
+![image](https://user-images.githubusercontent.com/79672776/119086520-92f99400-b9d3-11eb-9a17-f4b1089f8104.jpeg)
 Strength Summary
-![Screen Shot 2021-05-21 at 1 24 10 AM](https://user-images.githubusercontent.com/79672776/119086545-9ab93880-b9d3-11eb-89c5-ceba0682fd9c.jpeg)
+![image](https://user-images.githubusercontent.com/79672776/119086545-9ab93880-b9d3-11eb-89c5-ceba0682fd9c.jpeg)
