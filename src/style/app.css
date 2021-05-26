@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&family=Montserrat&display=swap');
+ 
+/* color palette */
+.colors{
+   color: #97d4da;
+   color: #e7eae6;
+   color: #f4a415;
+   color: #f2deb6;
+   color: #efc469;
+}
+ 
+body{
+   background-color: #e7eae6;
+   /* background-image: linear-gradient(#e7eae6, #e7eae6, #f4a415); */
+   height: 100vh;
+   margin: 0;
+}
+/* --------------------------------- nav bar -------------------------------- */
+#navbar{
+   width: 100vw;
+   height: 6vw;
+   background-color: #f2deb6;
+   margin: 2vw 0 2.5vw 0 ;
+ 
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   align-items: center;
+}
+#logo{
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   height: 100%;
+}
+.logo{
+   width: 10vw;
+   color: #f4a415;
+   margin: 0vw 1vw 0 1vw;
+}
+#siteName{
+   color: #f4a415;
+   font-family: 'Limelight', cursive;
+   font-size: 4vw;
+}
+ 
+#links{
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   height: 100%;
+}
+ 
+.navLink{
+   text-decoration: none;
+   font-family: 'Montserrat', sans-serif;
+   color: #f2deb6;
+   background-color: #f4a415;
+   font-weight:900;
+   height: 100%;
+   display: flex;
+   align-items: center;
+   margin: 0 .5vw 0 0;
+   padding: 0vw 1.5vw 0vw 1.5vw;
+    /* margin: 1.5vw; */
+    font-size: 2vw;
+ }
+   .navLink:hover{
+     /* color: rgb(255, 238, 0); */
+     color:  #315d61;
+     background-color: #97d4da;
+    
+   }
+ 
+/* ------------------------------ log in / sign up ------------------------------ */
+.user_form{
+   width: 80vw;
+   height: 60vh;
+   margin: 6vw auto 0 auto;
+    display: flex;
+   flex-direction: column;
+}
+.user_form input{
+   background-color: rgba(151, 212, 218, .5);
+   border: none;
+   font-size: 4vw;
+   margin: 1vw 0 1vw 0;
+   font-family: 'Montserrat', sans-serif;
+   width: 100%;
+   color: #315d61;
+ 
+}
+.user_form input::placeholder{
+   color: #e7eae6;
+}
+.user_form button{
+   margin: 1vw 0 1vw 0;
+   font-size: 4vw;
+   font-family: 'Limelight', cursive;
+   color:  #efc469;
+   background-color: #315d61;
+   /* width: 11vw; */
+   border: none;
+   padding: .5vw 0 .5vw 0;
+ }
+   .user_form button:hover{
+     color:  #315d61;
+     background-color: #efc469;
+     cursor: pointer;
+   }
