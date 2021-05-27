@@ -108,3 +108,132 @@ body{
      background-color: #efc469;
      cursor: pointer;
    }
+ 
+/* ------------------------- nutrition summary page ------------------------- */
+.nutrSumPage{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+   align-items: center;
+   width: 100vw;
+   height: 80vh;
+}
+.chart{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: space-evenly;
+   width: 40vw;
+   height: 100%;  
+}
+.chartTitle{
+   /* opacity: .7; */
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   background-color: #315d61;
+   padding: .5vw;
+   color: #e7eae6;
+   font-family: 'Montserrat', sans-serif;
+   font-weight: bolder;
+   font-size: 2.5vw;
+}
+.pie{
+   width: 35vw;
+}
+.buttonHolder{
+   width: 20vw;
+   display: flex;
+   flex-direction: columns;
+   align-items: center;
+}
+.button{
+   margin: 0 2vw 0 2vw;
+   font-size: 3vw;
+   font-family: 'Limelight', cursive;
+   color:  #315d61;
+   background-color: #97d4da;
+   border: none;
+   padding: .5vw;
+   text-align: center;
+ }
+   .button:hover{
+     color: #f4a415;
+     background-color: #f2deb6;
+     cursor: pointer;
+   }
+ 
+/* ------------------------ daily nutrition logs page ----------------------- */
+.dailyLogPg{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+.date{
+   font-family: 'Montserrat', sans-serif;
+   color: #315d61;
+   border: none;
+   background-color: #97d4da;
+   font-weight: bolder;
+   font-size: 3vw;
+   padding: .5vw;
+}
+.nutrContent{
+   width: 100vw;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: space-around;
+   height: 70vh;
+ 
+}
+.logsChart{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: space-evenly;
+   width: 30vw;
+   margin: 0 1vw 0 1vw;
+}
+#recChart{
+   max-height: 10vw;
+}
+.nutrValues{
+   display: flex;
+   flex-direction: column;
+   align-items: flex-start;
+   justify-content: space-between;
+   width: 32vw;
+   height: 20vw;
+   margin: 0 1vw 0 1vw;
+ 
+}
+.nutrValue{
+   width: 100%;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 3vw;
+   color: #315d61;
+ 
+}
+.nutrLabel{
+   color: #f4a415;
+   font-size: 3vw;
+   font-family: 'Limelight', cursive;
+}
+#nutrSave{
+   align-self: flex-end;
+   margin-right: 0;
+}
+.nutrInput{
+   width: 6vw;
+   text-align: center;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 3vw;
+   color: #315d61;
+   background-color: #f2deb6;
+   border: none;
+}
+ 
